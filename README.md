@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A07061a%2C100%3A8b5cf6&height=180&section=header&text=Ledger&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Every%20store%20earns%20its%20stars&descAlignY=57&descSize=20" alt="Ledger banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0%3A07061a%2C100%3A8b5cf6&height=180&section=header&text=Store Rating System&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Every%20store%20earns%20its%20stars&descAlignY=57&descSize=20" alt="Ledger banner"/>
 
 <br/>
 
